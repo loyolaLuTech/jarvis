@@ -20,8 +20,7 @@
     "hubot-slack": "^3.4.1",
     "hubot-darts": "1.0.x",
     "hubot-victory": ">= 0.0.0",
-    "hubot-thank-you": ">= 0.0.0",
-
+    "hubot-thank-you": ">= 0.0.0"
   },
   "engines": {
     "node": "0.10.x"
